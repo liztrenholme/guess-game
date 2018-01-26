@@ -1,6 +1,15 @@
+body {
+	background-color: pink;
+}
+
 .giphy-embed {
+	top: auto;
+	left: auto;
+	right: auto;
+	bottom: auto;
 	padding: 100px 100px 100px 100px;
 	border-width: 50px;
 	border-color: red;
 	border-style: double;
+	background-color: white;
 }
